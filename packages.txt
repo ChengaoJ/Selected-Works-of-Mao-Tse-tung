@@ -1,2 +1,1 @@
-update
-install sqlite3
+sqlite3
