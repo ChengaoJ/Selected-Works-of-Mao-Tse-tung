@@ -48,7 +48,7 @@ def get_text(dir_path):
 
 # 目标文件夹
 tar_dir = [
-    "/root/data/project/documentation"
+    "/root/data/documentation"
 ]
 
 # 加载目标文件
